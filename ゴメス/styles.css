@@ -1,0 +1,23 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+body{
+background-color: rgb(28, 115, 214);
+ }
+
+ h1{
+
+    color: blue;
+
+text-transform: uppercase;
+ }
+
+ .destaque{ color: aquamarine;
+ }
+.oi{
+
+    color: blueviolet;
+}
